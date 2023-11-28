@@ -2,7 +2,7 @@
 
 
 Django Version 4.2
-setup Environment
+* setup Environment
 > 1 Pip install virtualenv
 > 2 virtualenv venv
 > venv/Scripts/activate  -> To run the environment
