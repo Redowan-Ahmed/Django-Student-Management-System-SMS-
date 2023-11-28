@@ -4,7 +4,9 @@
 Django Version 4.2
 
 *setup Environment
-1 Pip install virtualenv 2 virtualenv venv venv/Scripts/activate -> To run the environment
+>1 Pip install virtualenv
+> 2 virtualenv venv
+>venv/Scripts/activate -> To run the environment
 
 *setup the app
 >1, pip install -r requiremenmts.txt
